@@ -9,11 +9,7 @@
 ## Table of Contents
 
 - [Features Overview](#features-overview)
-- [Quick Setup](#quick-setup)
-- [Manual Installation Steps](#manual-installation-steps)
-- [Support Server](https://discord.gg/QnWNz2dKCE)
-- [Required Bot Intents](#bot-intents)
-- [Contributing](#contributing)
+- [Support Server](https://discord.gg/PjzxPejTz) 
 
 <a name="features-overview"></a>
 ## Features Overview 
