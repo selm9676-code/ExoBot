@@ -85,10 +85,6 @@ Exobit offers a complete suite of tools for Discord server management and commun
 </tr>
 </table>
 
-<a name="quick-setup"></a>
-## Quick Setup (Recommended for non-coders)
-
-
 
 ## License
 
